@@ -1,3 +1,3 @@
 # demo-one
-just learning git and git hub<br>
-this is bit overwhelming
+Just learning git and git hub<br>
+This is bit overwhelming
